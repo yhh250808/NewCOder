@@ -1,3 +1,5 @@
+//http://blog.csdn.net/zhoubin1992/article/details/46984979
+
 #include <string.h>
 #include <algorithm>
 #include <iostream>
